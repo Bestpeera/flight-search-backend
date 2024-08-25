@@ -1,4 +1,13 @@
+# Django
 Django==4.0.7
+django-imagekit==4.1.0
 django-dotenv==1.4.2
+
+# Django Rest
 djangorestframework==3.13.1
+djangorestframework-simplejwt==5.2.0
 django-filter==22.1
+
+# Doc
+drf-yasg==1.21.3
+drf-yasg-examples==0.1.1
