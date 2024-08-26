@@ -23,5 +23,5 @@ virtualenv venv
 - install dependency
 
 ```bash
-pip install -r requirements_dev.txt
+pip install -r requirements.txt
 ```
