@@ -11,13 +11,13 @@ virtualenv venv
   - **Unix or MacOS**
 
     ```bash
-    source .venv/bin/activate
+    source venv/bin/activate
     ```
 
   - **Windows**
 
     ```bash
-    .\.venv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 - install dependency
